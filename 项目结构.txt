@@ -1,0 +1,6 @@
+ComfyUI-Workflow-Auto-Shutdown/
+├── __init__.py
+├── nodes.py
+├── requirements.txt
+├── README.md
+└── example_workflow.json
